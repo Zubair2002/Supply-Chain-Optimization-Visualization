@@ -1,0 +1,51 @@
+Project: Supply Chain Demand Fulfillment & Cost Optimization
+
+Objective: Optimize supply chain operations by aligning product supply with international demand while minimizing total costs.
+
+Approach: Applied Linear Programming (LP) to allocate shipments of multiple products across countries.
+
+Optimization Focus:
+
+Minimized shipping costs
+
+Minimized penalty costs from unmet demand
+
+Key Outputs Generated:
+
+Allocation matrix (product-to-country shipment plan)
+
+Supply utilization summary (capacity used vs. remaining)
+
+Demand fulfillment report (shipped vs. unmet demand, fulfillment % per country)
+
+Optimization cost breakdown (shipped cost, penalty cost, total cost)
+
+KPIs Tracked:
+
+Fulfillment percentage by country
+
+Supply utilization rates by product
+
+Cost composition (shipped vs. penalty costs)
+
+Visualizations Created:
+
+Demand vs. fulfillment (per country, top 10 for clarity)
+
+Supply capacity vs. shipped quantity (per product, top 10 for clarity)
+
+Cost distribution breakdown
+
+Ranked plots for high-demand countries & heavily utilized products
+
+Automation: All reports exported as CSV files and presentation-ready plots for decision support.
+
+Operations Management Principles Applied:
+
+Resource allocation
+
+Cost optimization
+
+Capacity planning
+
+Performance monitoring
